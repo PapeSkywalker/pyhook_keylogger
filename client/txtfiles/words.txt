@@ -1,0 +1,14 @@
+Alt_L
+Caps_Lock 
+Tab 
+BackSpace  
+Alt_R 
+Control_R 
+Up 
+Down
+Left 
+Right 
+NextPage_Up 
+NextPage_Down 
+Delete
+Canc
